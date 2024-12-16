@@ -1,14 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=34F5FF&center=true&vCenter=true&multiline=true&width=450&height=80&lines=Hi%2C+I'm+Hasan+Hayat!;A+Frontend+Developer+%7C+JavaScript+Enthusiast" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=34F5FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi%2C+I'm+Hassan+Hayat!;A+Frontend+Developer+%7C+JavaScript+Enthusiast" alt="Typing animation" />
 </h1>
 
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/45107552/193612918-b478cb1a-5bc9-41f2-a798-ec072ed0cd51.png" width="300" />
-</p>
-
----
 
 ### 👋 About Me
 
@@ -27,12 +20,12 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ### 🌟 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hassanhayat0012&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=hassanhayat0012&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=hasanhayat&theme=radical" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassanhayat0012&theme=radical" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhayat&theme=radical" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -40,7 +33,7 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanhayat0012&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhayat&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -57,10 +50,12 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 
 - **Email:** hassanhayat0012@gmail.com
 - **WhatsApp:** +92 339 5001230
-- **GitHub:** [hassanhayat0012](https://github.com/hassanhayat0012)
+- **GitHub:** [hasanhayat](https://github.com/hasanhayat)
 
 ---
 
 <p align="center">
+   <strong>✨ Thank you for visiting my profile! ✨</strong>
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="bottom" />
 </p>
+
