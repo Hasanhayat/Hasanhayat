@@ -30,8 +30,8 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ### 🌟 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=hasanhayat&theme=radical" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<!-- <img src="https://streak-stats.demolab.com?user=hasanhayat&theme=radical" alt="GitHub streak" />-->
 </p>
 
 <p align="center">
@@ -52,6 +52,7 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,nodejs,mongodb" alt="My skills" />
+
 </p>
 
 ---
