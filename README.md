@@ -51,7 +51,7 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap,git,github,nodejs,mongodb" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,nodejs,mongodb" alt="My skills" />
 
 </p>
 
