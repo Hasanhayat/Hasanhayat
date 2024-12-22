@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-I’m **Hasan Hayat**, a passionate **Frontend Developer** and **JavaScript Enthusiast**! 
+I’m **Hassan Hayat**, a passionate **Frontend Developer** and **JavaScript Enthusiast**! 
 
 - **Core Technologies:** HTML5, CSS3, JavaScript (ES6+)
 - **Frameworks & Libraries:** Bootstrap, React.js
