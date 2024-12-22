@@ -36,7 +36,7 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhayat&theme=radical" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhayat&theme=github-compact" alt="GitHub activity graph" />
 </p>
 
 ---
