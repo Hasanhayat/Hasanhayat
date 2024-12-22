@@ -42,9 +42,8 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ---
 
 ### 📊 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhayat&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanhayat&layout=compact&theme=radical&exclude_repo=Tips-tools" alt="Top languages" />
 </p>
 
 ---
