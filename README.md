@@ -31,7 +31,7 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<!--   <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=hasanhayat&theme=dark&background=000000"/></p> -->
+<img src="http://github-readme-streak-stats.herokuapp.com?user=hasanhayat&theme=dark&background=000000"/>
 <!-- <img src="https://streak-stats.demolab.com?user=hasanhayat&theme=radical" alt="GitHub streak" />-->
 </p>
 
