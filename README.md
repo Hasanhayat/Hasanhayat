@@ -64,6 +64,7 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,nodejs,mongodb" alt="My skills" />
 </p>
+
 ---
 
 ### 📫 How to Reach Me
