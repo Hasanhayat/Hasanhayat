@@ -15,15 +15,26 @@
 
 ### 👋 About Me
 
-I’m **Hassan Hayat**, a passionate **Frontend Developer** and **JavaScript Enthusiast**! 
+## Hi, I’m Hassan Hayat 👋 Passionate Frontend Developer and JavaScript Enthusiast!
 
-- **Core Technologies:** HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks & Libraries:** Bootstrap, React.js
-- **Version Control:** Git and GitHub
-- **Tools:** Font Awesome, APIs integration, Responsive Design
-- **Currently Learning:** Full Stack Development (Node.js, Express.js, MongoDB)
+### 🚀 Core Technologies
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**
 
-I specialize in building interactive and responsive web interfaces and enjoy exploring cutting-edge tools to develop robust and user-friendly applications.
+### 📚 Frameworks & Libraries
+- **Bootstrap**, **React.js**, **Material-UI**, **Chakra UI**, **Ant Design**
+
+### 🛠️ Tools
+- **Font Awesome**, **API Integration**, **Responsive Design**
+
+### 📂 Version Control
+- **Git** and **GitHub**
+
+### 📈 Currently Learning
+- Full Stack Development: **Node.js**, **Express.js**, **MongoDB**
+
+---
+
+I specialize in building **interactive** and **responsive web interfaces**, exploring cutting-edge tools to develop **robust and user-friendly applications**. My dedication lies in creating impactful digital experiences.
 
 ---
 
@@ -51,10 +62,8 @@ I specialize in building interactive and responsive web interfaces and enjoy exp
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,nodejs,mongodb" alt="My skills" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,nodejs,mongodb,materialui,chakraui,antdesign" alt="My skills" />
 </p>
-
 ---
 
 ### 📫 How to Reach Me
