@@ -26,6 +26,9 @@
 ### 🛠️ Tools
 - **Font Awesome**, **API Integration**, **Responsive Design**
 
+### 🗄️ Content Management System(CMS)
+- **Firebase**, **Supabase**, **Appwrite**
+
 ### 📂 Version Control
 - **Git** and **GitHub**
 
@@ -62,7 +65,7 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,supabase,npm,nodejs,mongodb" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
 </p>
 
 ---
