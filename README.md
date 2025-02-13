@@ -21,7 +21,7 @@
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**
 
 ### 📚 Frameworks & Libraries
-- **Bootstrap**, **React.js**, **Material-UI**, **Chakra UI**, **Ant Design**
+- **React.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
 
 ### 🛠️ Tools
 - **Font Awesome**, **API Integration**, **Responsive Design**
@@ -65,7 +65,7 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,vite,netlify,vercel,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,vite,netlify,vercel,tailwindcss,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
 </p>
 
 ---
