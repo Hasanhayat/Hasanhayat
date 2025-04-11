@@ -18,7 +18,7 @@
 ## Hi, I’m Hassan Hayat 👋 Passionate Frontend Developer and JavaScript Enthusiast!
 
 ### 🚀 Core Technologies
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**
+- **HTML5**, **CSS3**, **JavaScript (ES6+)**, **TypeScript**
 
 ### 📚 Frameworks & Libraries
 - **React.js**,**Next.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
@@ -65,7 +65,7 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,react,nextjs,vite,netlify,vercel,tailwindcss,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,ts,react,nextjs,vite,netlify,vercel,tailwindcss,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
 </p>
 
 ---
