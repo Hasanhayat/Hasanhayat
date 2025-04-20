@@ -21,10 +21,10 @@
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**, **TypeScript**
 
 ### 📚 Frameworks & Libraries
-- **React.js**,**Next.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
+- **React.js**, **Next.js**, **Tailwindcss**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
 
 ### 🛠️ Tools
-- **Font Awesome**, **API Integration**, **Responsive Design**,**GSAP**,
+- **Font Awesome**, **API Integration**, **Responsive Design**, **GSAP**,
 
 ### 🗄️ Content Management System(CMS)
 - **Firebase**, **Supabase**, **Appwrite**
