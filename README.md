@@ -65,7 +65,7 @@ I specialize in building **interactive** and **responsive web interfaces**, expl
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,materialui,js,ts,react,nextjs,vite,netlify,vercel,tailwindcss,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,materialui,jquery,js,ts,react,nextjs,vite,netlify,vercel,tailwindcss,bootstrap,git,github,firebase,appwrite,supabase,npm,nodejs,mongodb" alt="My skills" />
 </p>
 
 ---
