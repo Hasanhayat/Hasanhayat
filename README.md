@@ -50,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasanhayat&theme=github_dark&show_icons=true" alt="GitHub Stats" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=hasanhayat&theme=dark&background=000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasanhayat&theme=github-compact" alt="GitHub activity graph" />
 </p>
 
 ---
