@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=34F5FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hi%2C+I'm+Hassan+Hayat!;A+Full+Stack+Developer+%26+TypeScript+Enthusiast" alt="Typing animation" />
 </h1>
 
-
-
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hasanhayat&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
