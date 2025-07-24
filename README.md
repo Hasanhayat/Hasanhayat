@@ -4,13 +4,9 @@
 
 <div align="center">
 
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hasanhayat&data=followers,repositories,stars,commits&theme=radical&hide_border=true)](https://github.com/Hasanhayat/HasanHayat-widgetbox)
 
 <img src="https://komarev.com/ghpvc/?username=hasanhayat&label=Profile%20views&color=0e75b6&style=flat" alt="hasanhayat" />
-
-<!--[![committers.top badge](https://user-badge.committers.top/pakistan/hasanhayat.svg)](https://user-badge.committers.top/pakistan/hasanhayat)-->
-
 
 </div>
 
@@ -26,22 +22,37 @@
 
 ### 🚀 Core Technologies
 - **HTML5**, **CSS3**, **JavaScript (ES6+)**, **TypeScript**
+- **Zustand**, **TanStack Query**, **Framer Motion**
+
+---
 
 ### 📚 Frontend Libraries & Frameworks
-- **React.js**, **Next.js**, **Tailwind CSS**, **Bootstrap**, **Material-UI**, **Chakra UI**, **Ant Design**
+- **React.js**, **Next.js**, **Tailwind CSS**, **Bootstrap**
+- **Material-UI**, **Chakra UI**, **Ant Design**, **Framer Motion**, **ShadCN/UI**
+
+---
 
 ### 🔧 Backend & Server
 - **Node.js**, **Express.js**, **REST APIs**, **JWT Auth**, **File Uploads**
+- **Socket.IO**, **Cloudinary**
+
+---
 
 ### 🗄️ Databases
-- **MongoDB**, **Mongoose** *(NoSQL)*
-- **MySQL**, **PostgreSQL** *(SQL)*
+- **MongoDB**, **Mongoose**, **Firestore** *(NoSQL)*
+- **MySQL**, **PostgreSQL**, **Supabase DB** *(SQL)*
+
+---
 
 ### 🛠️ Tools & Platforms
-- **Git**, **GitHub**, **Firebase**, **Appwrite**, **Supabase**, **Vercel**, **Netlify**, **VS Code**, **Postman**
+- **Git**, **GitHub**, **Firebase**, **Appwrite**, **Supabase**
+- **Vercel**, **Netlify**, **VS Code**, **Postman**, **Thunder Client**
+
+---
 
 ### 📈 Currently Exploring
 - Advanced backend patterns, **DevOps basics**, **CI/CD**, **GraphQL**, **Socket.IO**
+- **React Native**, **WebSockets**, **State Machines (XState)**
 
 ---
 
@@ -66,7 +77,7 @@
 ### 🛠️ My Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,git,github,firebase,supabase,appwrite,vite,tailwind,bootstrap,materialui,npm,vercel,netlify" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,postgres,mysql,git,github,supabase,appwrite,vite,tailwind,bootstrap,materialui,npm,vercel,netlify,redux" alt="My skills" />
 </p>
 
 ---
